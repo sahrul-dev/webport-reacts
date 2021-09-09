@@ -1,5 +1,4 @@
 ![React Logo](src/logo.svg)
-Format: ![Alt Text](url)
 
 # Getting Started with Create React App
 
